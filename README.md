@@ -1,0 +1,2 @@
+# kodesti
+Programmeringsøvelser i Python
