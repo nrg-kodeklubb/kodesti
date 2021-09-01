@@ -1,5 +1,6 @@
 # Halvors Eventyr - Post 2
 ![Level](level.png)
+
 Målet ditt er å føre Halvor trygt til det gule flagget. Dette kan du gjøre ved hjelp av tre funksjoner:
 
 ## ```walkForward()```
