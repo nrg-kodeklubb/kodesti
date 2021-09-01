@@ -1,5 +1,5 @@
 # Halvors Eventyr
-På jakt etter en eksotisk amfibie har Halvor klart å gå seg vill i skogen. Hjelp han ut derfra!
+På jakten etter en eksotisk amfibie klarte Halvor å gå seg vill i skogen. Hjelp han ut derfra!
 ![Preview](post2/level.png)
 
 ## Poster
