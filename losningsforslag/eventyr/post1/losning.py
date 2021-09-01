@@ -6,4 +6,4 @@ for i in range(5):
 turnLeft()
 walkForward()
 
-validate() # Vurderer om koden din er riktig eller ikke. ALLTID kall denne funksjonen på slutten av scripte ditt!
+validate()
